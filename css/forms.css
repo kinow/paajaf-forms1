@@ -1,0 +1,36 @@
+
+html, body {
+	margin: 0px;
+	padding: 0px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+div#form1_header, div#form2_header {
+	margin: 20px 0px;
+}
+
+div#form1_header h1 {
+	background-image: url("../img/top1.png");
+	background-repeat: no-repeat;
+	text-indent: -5000em;
+	width: 762px;
+	height: 45px;
+	border: 0px solid;
+	margin: 0px;
+	padding: 0px;
+}
+
+div#form2_header h1 {
+  background-image: url("../img/top2.png");
+  background-repeat: no-repeat;
+  text-indent: -5000em;
+  width: 762px;
+  height: 45px;
+  border: 0px solid;
+  margin: 0px;
+  padding: 0px;
+}
